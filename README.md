@@ -1,7 +1,7 @@
 <div align="center">
     <img width="400" src="media/shopify_logo_whitebg.svg" alt="Shopify" />
     <br><br>
-    <p>A list of resources for developing on or learning about the Shopify platform. Have a suggestion, consider <a href="CONTRIBUTING.md">contributing</a> to this project.</p>
+    <p>A list of resources for developing on or learning about the Shopify platform. Have a suggestion? Please consider <a href="CONTRIBUTING.md">contributing</a> to this project and level up your fellow Shopify developer/partner.</p>
 </div>
 
 # Contents
