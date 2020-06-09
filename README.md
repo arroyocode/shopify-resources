@@ -49,6 +49,8 @@
     - [Shopify for Developers: Free Course](https://www.youtube.com/playlist?list=PLB4AdipoHpxbTycAd8VriLJoROLb3hYmh) - YouTube free Shopify developers course by Code Inspire.
 - Shopify
     - [Shopify Partner Academy](https://www.shopify.com/partners/academy) - Collection of courses, study guides, and exams to help getting started as a Shopify Partner.
+- GitHub
+    - [Shopify Developer Training Plan](https://github.com/gil--/Shopify-Developer-Training-Plan) - A thorough checklist of Shopify concepts every developer should know in the order they should learn them by Gil Greenberg.
 
 ## Blogs
 
