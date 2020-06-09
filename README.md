@@ -8,7 +8,7 @@
 
 - [Languages](#languages)
 - [Tooling](#tooling)
-- [Seed Data](#data)
+- [Seed Data](#seed-data)
 - [Tutorials](#tutorials)
 - [Courses](#courses)
 - [Blogs](#blogs)
