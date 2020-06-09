@@ -60,6 +60,7 @@
 
 - [Developer Changelog](https://shopify.dev/changelog) - Stay up to date with recent changes to Shopify's APIs and other development products.
 - [Shopify Web Design & Development Blog](https://www.shopify.com/partners/blog) - A blog about design, development, inspiration and updates to the Shopify Partners Program.
+- ['ello Dave Blog](https://ellodave.dev/) - Mostly Shopify blog by David Warrington.
 
 ## Communities
 
