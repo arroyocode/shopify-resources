@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="400" src="media/shopify_logo_whitebg.svg" alt="Shopify" />
+    <img width="40%" src="media/shopify_logo_whitebg.svg" alt="Shopify" />
     <br><br>
     <p>A list of resources for developing on or learning about the Shopify platform. Have a suggestion? Please consider <a href="CONTRIBUTING.md">contributing</a> to this project and level up fellow Shopify Developers/Partners.</p>
 </div>
@@ -8,6 +8,7 @@
 
 - [Languages](#languages)
 - [Tooling](#tooling)
+- [Seed Data](#data)
 - [Tutorials](#tutorials)
 - [Courses](#courses)
 - [Blogs](#blogs)
@@ -26,6 +27,10 @@
     - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - The Shopify cheat sheet is a resource for building Shopify Themes with Liquid.
     - [Shopify Cheat Sheet](http://cheat.markdunkley.com/) - Liquid cheat sheet by UX designer, Shopify alumni Mark Dunkley.
     - [Shopify Theme Inspector](https://github.com/Shopify/shopify-theme-inspector) - Chrome DevTools plugin that visualizes Shopify Liquid render profiling data.
+
+## Seed Data
+
+- [Shopify Product CSVs & Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Sample product CSVs and images to seed your development store with product data.
 
 ## Tutorials
 
