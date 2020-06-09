@@ -27,7 +27,7 @@
     - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - The Shopify cheat sheet is a resource for building Shopify Themes with Liquid.
     - [Shopify Cheat Sheet](http://cheat.markdunkley.com/) - Liquid cheat sheet by UX designer, Shopify alumni Mark Dunkley.
     - [Shopify Theme Inspector](https://github.com/Shopify/shopify-theme-inspector) - Chrome DevTools plugin that visualizes Shopify Liquid render profiling data.
--Packages
+- Packages
     - [Shopify NPM Repository](https://www.npmjs.com/search?q=%40shopify) - All official Shopify packages for development use.
     - [Shopify API Node](https://github.com/MONEI/Shopify-api-node) - Official Shopify API bindings for Node.js.
     - [Shopify Quilt](https://github.com/Shopify/quilt) - A set of packages for JavaScript/TypeScript projects at Shopify.
