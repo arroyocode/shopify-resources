@@ -8,7 +8,8 @@
 
 - [Languages](#languages)
 - [Tooling](#tooling)
-- [Training](#training)
+- [Tutorials](#tutorials)
+- [Courses](#courses)
 - [Communities](#communities)
 
 ## Languages
@@ -24,8 +25,12 @@
 - [Shopify Theme Kit](https://shopify.github.io/themekit/) - Theme Kit is a command line tool for Shopify theme development.
 - [Shopify Theme Inspector](https://github.com/Shopify/shopify-theme-inspector) - Chrome DevTools plugin that visualizes Shopify Liquid render profiling data.
 
-## Training
+## Tutorials
 
+- [Shopify Tutorials](https://shopify.dev/tutorials) - App and theme tutorials by Shopify.
+- [Frequently Used Customizations](https://community.shopify.com/c/Shopify-Design/Theme-Tutorials-Cart-Forms-Variants-and-more/m-p/638735#M160621) - Community tutorials post regarding frequently used customizations including cart, forms, variants and more.
+
+## Courses
 - [Shopify Essentials for Web Developers: From Store Setup to Custom Themes](https://www.skillshare.com/classes/Shopify-Essentials-for-Web-Developers-From-Store-Setup-to-Custom-Themes/1070001866) - Skillshare Shopify essentials for web developers course by Kurt Elster.
 - [Advanced Shopify Theme Development](https://www.skillshare.com/classes/Advanced-Shopify-Theme-Development/708093439) - Skillshare Shopify theme development course by Gavin Ballard.
 - [Shopify Theme Development: Build and Customize Your Own Online Store](https://www.skillshare.com/classes/Shopify-Theme-Development-Build-and-Customise-Your-Own-Online-Store/1756809856) - Skillshare Shopify store customization course by Christopher Dodd.
