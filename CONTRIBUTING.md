@@ -1,13 +1,7 @@
 # Contribution Guidelines
 
-Thank you for your interest in contributing to this project and leveling up your fellow Shopify developer/partner.
+Thank you for your interest in contributing to this project. This project adheres to a <a href="CODE_OF_CONDUCT.md">Contributor Code of Conduct</a>. By contributing to this project, you agree to abide by its terms.
 
-## Submitting a Pull Request (PR)
+## Pull Request Requirements
 
-Before you submit a pull request, please consider the following submission guidelines.
-
-- The resource must include a short description that does not describe the category you feel it should belong to or be a marketing blurb. The first character should be uppercase and end with a period.
-    - `[Tooling](...) - Command line tool for combining SVGs.`
-- The resource is not a duplicate with a different description, an existing resource copied to another category or be included in an existing pull request.
-- The resource has been around for a minimum of 30 days.
-- The resource educates others and/or provides "how to" topics related to Shopify administration or development.
+Please verify your pull request adheres to the <a href="pull_request_template.md">pull request guidelines</a>. A maintainer may ask you to edit your pull request before it can be included in order to fix an spelling errors.
