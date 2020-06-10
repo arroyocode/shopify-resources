@@ -40,6 +40,7 @@
 
 - [Shopify Tutorials](https://shopify.dev/tutorials) - App and theme tutorials by Shopify.
 - [Frequently Used Customizations](https://community.shopify.com/c/Shopify-Design/Theme-Tutorials-Cart-Forms-Variants-and-more/m-p/638735#M160621) - Community tutorials post regarding frequently used customizations including cart, forms, variants and more.
+- [Shopify Developer Training Plan](https://github.com/gil--/Shopify-Developer-Training-Plan) - A thorough checklist of Shopify concepts every developer should know in the order they should learn them by Gil Greenberg.
 
 ## Courses
 
@@ -53,8 +54,6 @@
     - [Shopify for Developers: Free Course](https://www.youtube.com/playlist?list=PLB4AdipoHpxbTycAd8VriLJoROLb3hYmh) - YouTube free Shopify developers course by Code Inspire.
 - Shopify
     - [Shopify Partner Academy](https://www.shopify.com/partners/academy) - Collection of courses, study guides, and exams to help getting started as a Shopify Partner.
-- GitHub
-    - [Shopify Developer Training Plan](https://github.com/gil--/Shopify-Developer-Training-Plan) - A thorough checklist of Shopify concepts every developer should know in the order they should learn them by Gil Greenberg.
 
 ## Blogs
 
