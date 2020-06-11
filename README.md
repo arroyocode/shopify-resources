@@ -12,6 +12,7 @@
 - [Tutorials](#tutorials)
 - [Courses](#courses)
 - [Blogs](#blogs)
+- [Podcasts](#podcasts)
 - [Communities](#communities)
 
 ## Languages
@@ -60,6 +61,14 @@
 - [Developer Changelog](https://shopify.dev/changelog) - Stay up to date with recent changes to Shopify's APIs and other development products.
 - [Shopify Web Design & Development Blog](https://www.shopify.com/partners/blog) - A blog about design, development, inspiration and updates to the Shopify Partners Program.
 - ['ello Dave Blog](https://ellodave.dev/) - Mostly Shopify blog by David Warrington.
+
+# Podcasts
+
+- [The Unofficial Shopify Podcast](https://unofficialshopifypodcast.com/) - Discover new opportunities to grow your store from the world’s most successful Shopify entrepreneurs.
+- [Shopify Masters](https://www.shopify.com/podcasts/shopify-masters) - The Ecommerce marketing podcast for ambitious entrepreneurs.
+- [eCommerce Fastlane Podcast](https://ecommercefastlane.com/podcast/) - A resource will help you build and scale lifetime customer loyalty.
+- [The Shopify Solutions Podcast](http://www.shopifysolutionspodcast.com/) - Get concrete examples and recommendations on how to build and grow your eCommerce business.
+- [Wavebreak Podcast](https://www.wavebreakpodcast.com/) - Grow your Shopify store.
 
 ## Communities
 
