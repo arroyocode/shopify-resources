@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="50%" src="media/shopify_logo_whitebg.svg" alt="Shopify" />
+    <img width="40%" src="media/shopify_logo_whitebg.svg" alt="Shopify" />
     <br><br>
     <p>A list of resources for developing on or learning about the Shopify platform. Have a suggestion? Please consider <a href="CONTRIBUTING.md">contributing</a> to this project and level up fellow Shopify Developers/Partners.</p>
 </div>
