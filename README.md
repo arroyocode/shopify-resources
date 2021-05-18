@@ -66,11 +66,15 @@
 
 - [The Unofficial Shopify Podcast](https://unofficialshopifypodcast.com/) - Discover new opportunities to grow your store from the world’s most successful Shopify entrepreneurs.
 - [Shopify Masters](https://www.shopify.com/podcasts/shopify-masters) - The Ecommerce marketing podcast for ambitious entrepreneurs.
+- [Resilient Retail](https://resilient.shopify.com/season-two) - Shopify's Resilient Retail series hosted by Shopify team member Kristen LaFrance.
 - [eCommerce Fastlane Podcast](https://ecommercefastlane.com/podcast/) - A resource will help you build and scale lifetime customer loyalty.
 - [The Shopify Solutions Podcast](http://www.shopifysolutionspodcast.com/) - Get concrete examples and recommendations on how to build and grow your eCommerce business.
 - [Wavebreak Podcast](https://www.wavebreakpodcast.com/) - Grow your Shopify store.
 
 ## Communities
 
+- [r/Shopify](https://www.reddit.com/r/shopify/) - Reddit Shopify community including weekly "promote your Shopify business" opportunities.
+- [Shopify Entrepreneurs](https://www.facebook.com/groups/shopifyentrepreneurs/) - Entrepreneurs, store managers, app devs and Shopify employees.
 - [Shopify Community](https://community.shopify.com/) - The Shopify company community.
 - [Shopify Partners Slack Community](https://shopifypartners.slack.com) - Slack community for Shopify Partners.
+- [eCommTalk](https://slofile.com/slack/ecommtalk) - eCommTalk is a Slack community created to bring Shopify lovers together.
