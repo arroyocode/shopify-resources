@@ -11,6 +11,7 @@
 - [Seed Data](#seed-data)
 - [Tutorials](#tutorials)
 - [Courses](#courses)
+- [Webinars](#webinars)
 - [Blogs](#blogs)
 - [Channels](#channels)
 - [Podcasts](#podcasts)
@@ -57,6 +58,10 @@
     - [Shopify for Developers: Free Course](https://www.youtube.com/playlist?list=PLB4AdipoHpxbTycAd8VriLJoROLb3hYmh) - YouTube free Shopify developers course by Code Inspire.
 - Shopify
     - [Shopify Partner Academy](https://www.shopify.com/partners/academy) - Collection of courses, study guides, and exams to help getting started as a Shopify Partner.
+
+## Webinars
+
+- [Partner Session Webinars](https://www.shopify.com/partners/webinars) - Free webinars to help you grow as a web design freelancer, agency, or app developer. Get notified as new webinars are released.
 
 ## Blogs
 
