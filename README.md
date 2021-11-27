@@ -12,6 +12,7 @@
 - [Tutorials](#tutorials)
 - [Courses](#courses)
 - [Blogs](#blogs)
+- [Channels](#channels)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
 
@@ -62,7 +63,12 @@
 - [Shopify Web Design & Development Blog](https://www.shopify.com/partners/blog) - A blog about design, development, inspiration and updates to the Shopify Partners Program.
 - ['ello Dave Blog](https://ellodave.dev/) - Mostly Shopify blog by David Warrington.
 
-# Podcasts
+## Channels
+
+- [Shopify Devs YouTube Channel](https://www.youtube.com/channel/UCcYsEEKJtpxoO9T-keJZrEw) - Tips and insights in dev and design.
+- [Shopify Devs Twitch Channel](https://www.twitch.tv/shopifydevs) - Test, demo, and build solutions for the Shopify Developer community.
+
+## Podcasts
 
 - [The Unofficial Shopify Podcast](https://unofficialshopifypodcast.com/) - Discover new opportunities to grow your store from the world’s most successful Shopify entrepreneurs.
 - [Shopify Masters](https://www.shopify.com/podcasts/shopify-masters) - The Ecommerce marketing podcast for ambitious entrepreneurs.
