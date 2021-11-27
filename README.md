@@ -26,8 +26,8 @@
 
 ## Languages
 
-- [Liquid](https://github.com/Shopify/liquid) - Liquid markup language source.
-    - [Shopify Liquid Template Language Reference](https://shopify.dev/docs/themes/liquid/reference) - Liquid is a template language created by Shopify and written in Ruby.
+- [Liquid](https://github.com/Shopify/liquid) - GitHub liquid repository.
+    - [Official Liquid Documentation](http://shopify.github.io/liquid/) - Public facing documentation for the Liquid language, which is used by a variety of platforms in addition to Shopify.
     - [Shopify Liquid Code Examples](https://shopify.github.io/liquid-code-examples/) - Build and customize themes with Liquid examples.
     
 ## Tooling
