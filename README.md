@@ -24,6 +24,7 @@
     
 ## Tooling
 
+- [Shopify API Libraries](https://shopify.dev/apps/tools/api-libraries) - Shopify provides several official libraries for interacting with the Admin API. Members of the Shopify developer community have created similar libraries covering other languages and technology stacks.
 - Theme Development
     - [Shopify Theme Kit](https://shopify.github.io/themekit/) - Theme Kit is a command line tool for Shopify theme development.
     - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - The Shopify cheat sheet is a resource for building Shopify Themes with Liquid.
