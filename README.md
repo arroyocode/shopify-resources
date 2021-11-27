@@ -6,6 +6,7 @@
 
 # Contents
 
+- [Documentation](#documentation)
 - [Languages](#languages)
 - [Tooling](#tooling)
 - [Seed Data](#seed-data)
@@ -16,6 +17,12 @@
 - [Channels](#channels)
 - [Podcasts](#podcasts)
 - [Communities](#communities)
+
+## Documentation
+
+- [Shopify Help Center](https://help.shopify.com/en) - Search friendly Shopify documentation hub.
+- [Shopify.dev](https://shopify.dev/) - Access powerful APIs to bring ideas to life on the platform that makes commerce better for everyone.
+- [Admin API Reference](https://help.shopify.com/api/reference) - The Admin API lets you build apps and integrations that extend and enhance the Shopify admin.
 
 ## Languages
 
@@ -66,6 +73,7 @@
 ## Blogs
 
 - [Developer Changelog](https://shopify.dev/changelog) - Stay up to date with recent changes to Shopify's APIs and other development products.
+- [Shopify UX](https://ux.shopify.com/) - The latest thinking on commerce, craft, and culture from the Shopify UX team.
 - [Shopify Web Design & Development Blog](https://www.shopify.com/partners/blog) - A blog about design, development, inspiration and updates to the Shopify Partners Program.
 - ['ello Dave Blog](https://ellodave.dev/) - Mostly Shopify blog by David Warrington.
 
