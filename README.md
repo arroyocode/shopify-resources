@@ -24,6 +24,7 @@
 - [Shopify UX](https://ux.shopify.com/) - The latest thinking on commerce, craft, and culture from the Shopify UX team.
 - [Shopify Web Design & Development Blog](https://www.shopify.com/partners/blog) - A blog about design, development, inspiration and updates to the Shopify Partners Program.
 - ['ello Dave Blog](https://ellodave.dev/) - Mostly Shopify blog by David Warrington.
+- [Nama Studio](https://namastudio.it/en/blogs/blog) - In our blog you will find the lessons learnt while working on Shopify, together with the stories of brave entrepreneurs and some technical guides for developers.
 
 ## Channels
 
