@@ -12,6 +12,7 @@
 - [Courses](#courses)
 - [Documentation](#documentation)
 - [Languages](#languages)
+- [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Tooling](#tooling)
 - [Tutorials](#tutorials)
@@ -63,6 +64,10 @@
     - [Shopify Quilt](https://github.com/Shopify/quilt) - A set of packages for JavaScript/TypeScript projects at Shopify.
     - [Shopify API Node](https://github.com/MONEI/Shopify-api-node) - Official Shopify API bindings for Node.js.
     - [Shopify NPM Repository](https://www.npmjs.com/search?q=%40shopify) - All official Shopify packages for development use.
+    
+## Newsletters
+
+- [Liquid Weekly](https://liquidweekly.com/) - A curated newsletter by and for Shopify Developers. Stay informed with the latest news, articles and tips sent directly to your inbox.
 
 ## Podcasts
 
